@@ -22,3 +22,8 @@ What are some situations when branches would be helpful in keeping your history 
 
 
 when you need to do something risky experimental diferent , the key is that what you do is isolated does affect main project
+
+
+How do the diagrams help you visualize the branch structure?
+
+It help to see the parent of each commit 
