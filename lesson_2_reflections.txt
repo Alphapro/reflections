@@ -10,3 +10,15 @@ How is the staging area different from the working directory and the repository?
 Staging area does not have all files in working directory
 
 I am not clear about why this is used
+
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+by separating all the changes segregating changes  I not clear about it revisit
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+
+when you need to do something risky experimental diferent , the key is that what you do is isolated does affect main project
