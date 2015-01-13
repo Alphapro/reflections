@@ -1,0 +1,12 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git create a .git hidden folder to keep track of history (commits)
+
+Git needs to differenciate what is a repository and what is not
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area does not have all files in working directory
+
+I am not clear about why this is used

@@ -1,0 +1,39 @@
+How did viewing a diff between two versions of a file help you see the bug that
+ was introduced?
+
+    
+
+Because it was working before and not after , that means the error was introduced by what is added or removed from the original
+
+diff shows that what was added or removed.
+
+The bug is the the diferences , things could be removed added or changed.
+
+The tool does just that compare differences.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+
+You get to see the sequence that lead to the final version.
+
+Help to better understand the code.
+
+Helps to better unestand what part of the code do what. 
+
+
+
+---------------
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log shows a list of commit messages in the chronological order that happen (lifo)
+
+git diff is used to compare two particular commits and see the specific code diferences
+
+
+How might using version control make you more confident to make changes that could break something?
+
+Because by using version control one can go back to any previous commit that means all previous versions
+of a file are save. So making a change is always reversible 
+
+  
