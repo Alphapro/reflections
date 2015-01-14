@@ -33,4 +33,20 @@ What is the result of merging two branches together? Why do we represent it in t
 
 merge have all the changes made in two branches. Diagram helps to keep track of commits
 
-Add everithing that was added by either branch delete everything that was deleted by either branch  
+Add everithing that was added by either branch delete everything that was deleted by either branch
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging saves alot of time it safely bring code from 2 branches togheter.
+
+Doing manualy is tedious.  Have to be careful with automatic because it does not always work 
+
+
+
+
+
+
+
+
+  
