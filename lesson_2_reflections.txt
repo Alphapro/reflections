@@ -27,3 +27,10 @@ when you need to do something risky experimental diferent , the key is that what
 How do the diagrams help you visualize the branch structure?
 
 It help to see the parent of each commit 
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+merge have all the changes made in two branches. Diagram helps to keep track of commits
+
+Add everithing that was added by either branch delete everything that was deleted by either branch  
